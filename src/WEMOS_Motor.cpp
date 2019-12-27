@@ -74,7 +74,7 @@ motor:
 dir:
 	_SHORT_BRAKE	0
 	_CCW			1
-	_CCW			2
+	_CW			2
 	_STOP			3
 	_STANDBY		4
 
